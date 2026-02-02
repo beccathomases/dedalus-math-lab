@@ -24,8 +24,10 @@ pip install dedalus numpy matplotlib h5py
 ```
 ## Directory Structure
 
+```
 dedalus-math-lab/
 ├─ shear_flow.py # Main simulation script
 ├─ plot_snapshots.py # Visualization / animation scripts
 ├─ snapshots/ # HDF5 snapshot data output
 ├─ README.md # Project documentation
+```
