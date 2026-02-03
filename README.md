@@ -22,12 +22,17 @@ Install dependencies (recommended in a virtual environment):
 ```bash
 pip install dedalus numpy matplotlib h5py
 ```
+
+Activate environments before running scripts:
+```bash
+conda activate dedalus
+```
+
 ## Directory Structure
 
 ```
 dedalus-math-lab/
-├─ shear_flow.py # Main simulation script
-├─ plot_snapshots.py # Visualization / animation scripts
-├─ snapshots/ # HDF5 snapshot data output
-├─ README.md # Project documentation
+├─ main # main branch, containing README.md and Tutorials
+├─ periodic shear flow # Branch 1
+├─ poisson equation # Branch 2
 ```
