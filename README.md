@@ -16,7 +16,7 @@ This repository contains **Dedalus simulations** for studying **periodic shear f
 - [Dedalus](http://dedalus-project.org/)  
 - NumPy, Matplotlib  
 - h5py (for snapshot data)
-**- All commands execute on WSL!!!**
+- **All commands execute on WSL!!!**
   
 Install dependencies (recommended in a virtual environment):
 
